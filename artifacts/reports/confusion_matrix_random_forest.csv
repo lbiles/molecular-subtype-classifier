@@ -1,0 +1,7 @@
+true_label,Basal,Her2,LumA,LumB,Normal,claudin-low
+Basal,34,3,1,1,0,1
+Her2,0,33,3,7,1,0
+LumA,0,1,122,13,0,0
+LumB,0,1,14,77,0,0
+Normal,0,2,19,1,5,1
+claudin-low,4,1,3,1,0,31

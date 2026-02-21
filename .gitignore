@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.pyc
+.coverage
+htmlcov/
+.streamlit/secrets.toml
+artifacts/logs/
